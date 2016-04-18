@@ -17,9 +17,14 @@ This means find the application (or parts of an application) less tested. In wid
 
 ## ￼Tool: Recon-ng script (enumall.sh
 https://github.com/jhaddix/domain
+https://dnsdumpster.com/
+subbrute : https://github.com/TheRook/subbrute.git
+Fierce : https://github.com/davidpepper/fierce-domain-scanner.git
+The harvester : https://github.com/laramies/theHarvester.git
 
 ## ￼LMGTFY: Let Me GOOGLE That For You
 site:paypal.com -www.paypal.com -www.sandbox
+
 ￼￼
 ## List of Mergers and Acquisitinos:
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook
